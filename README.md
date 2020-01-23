@@ -9,4 +9,4 @@ After you pick a color, Hex format code will automatically copied to your clipbo
 
 
 ## Download
-[macOS v1.0](https://pan.baidu.com/s/1g4fX-qiUi27xaMZa5093Rw])（提取码: `shhn`）
+[macOS v1.0](https://pan.baidu.com/s/1g4fX-qiUi27xaMZa5093Rw])（提取码: `shhn`，支持系统：macOS Catalina+）
